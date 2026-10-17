@@ -1,9 +1,10 @@
+
 {
   "placeholderImages": [
     {
       "id": "terminal-preview",
       "description": "A preview of the StockMint trading terminal showing charts and data.",
-      "imageUrl": "/hero.png",
+      "imageUrl": "https://picsum.photos/seed/stockmint/1200/900",
       "imageHint": "trading dashboard"
     }
   ]
