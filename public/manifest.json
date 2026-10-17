@@ -1,0 +1,56 @@
+{
+  "name": "StockMint",
+  "short_name": "StockMint",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050508",
+  "theme_color": "#5D2D91",
+  "orientation": "portrait",
+  "id": "io.stockmint.app",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/1.png",
+      "sizes": "900x1600",
+      "type": "image/png",
+      "label": "StockMint Dashboard"
+    },
+    {
+      "src": "/2.png",
+      "sizes": "900x1600",
+      "type": "image/png",
+      "label": "Trade Ledger"
+    },
+    {
+      "src": "/3.png",
+      "sizes": "900x1600",
+      "type": "image/png",
+      "label": "Option Chain"
+    },
+    {
+      "src": "/4.png",
+      "sizes": "900x1600",
+      "type": "image/png",
+      "label": "Wallet & Funds"
+    },
+    {
+      "src": "/5.png",
+      "sizes": "900x1600",
+      "type": "image/png",
+      "label": "Profile Analysis"
+    }
+  ]
+}

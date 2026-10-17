@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "terminal-preview",
+      "description": "A preview of the StockMint trading terminal showing charts and data.",
+      "imageUrl": "/hero.png",
+      "imageHint": "trading dashboard"
+    }
+  ]
+}
